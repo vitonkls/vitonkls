@@ -1,1 +1,1 @@
-![logo](https://vitonkls.com/images/uncdcons.png)
+![logo](./banner.png)
